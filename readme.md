@@ -1,4 +1,7 @@
-# Cliente 
+
+# Ejercicio de Clase: Aplicación de Banco
+
+## Cliente 
 
 Nombre
 PrimerApellido
@@ -6,7 +9,7 @@ SegundoApellido
 FechaDeNacimiento
 EstadoDeNacimiento
 
-# Deposito
+## Deposito
 
 ClienteId
 NombreDeLaCuenta
